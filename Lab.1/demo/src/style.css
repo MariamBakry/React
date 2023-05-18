@@ -1,0 +1,10 @@
+.crsClass{
+  height: 50vh;
+}
+
+.cardClass{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
